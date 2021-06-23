@@ -1,2 +1,2 @@
 redis-bayesian classifier for farsi
- Part of https://zelkaa.com
+ Part of <a href="https://zelkaa.com"> Zelkaa </a>
